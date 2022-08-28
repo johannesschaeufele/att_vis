@@ -1,0 +1,10 @@
+*.gitattributes text eol=lf
+*.gitignore text eol=lf
+
+*.txt text eol=lf
+*.md text eol=lf diff=markdown
+*.sh text eol=lf diff=bash
+*.yapf text eol=lf
+*.py text eol=lf diff=python
+
+*.png binary

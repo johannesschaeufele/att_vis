@@ -1,0 +1,8 @@
+# att_vis requirements
+numpy
+matplotlib
+
+# Additional demo requirements
+skimage
+torch
+torchvision
